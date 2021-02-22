@@ -1,0 +1,23 @@
+.product {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.cardProduct {
+    background: green;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+}
+
+button {
+    background: grey;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
